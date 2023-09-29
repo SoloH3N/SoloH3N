@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SoloH3N
 - 👀 I’m interested in front-end development, IOS development, data science, and cyber-security (ethical hacking).
 - 💞️ I love to make music on Ableton Live.
-- 🌱 I’m currently learning Systems Programming and Data Structures at the University at Buffalo.
+- 🌱 I’m currently learning about Web Applications and Computing Security at the University at Buffalo.
 - 📫 How to reach me ... phunlian@buffalo.edu, liansolomon02@gmail.com
